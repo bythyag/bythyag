@@ -1,4 +1,4 @@
-# 💫 YO WHAT'S GOOD! I'M THAT IIT KID WHO VIBES WITH AI 🤖
+# 💫 YO What'S GOOD! I'm that kid who vibes with ai 🤖
 
 <div align="center">
 
