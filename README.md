@@ -1,5 +1,5 @@
-🍓 if you're here, don't forget to say hi! feel free to drop me a mail: bythyag at gmail dot com
+🍓 if you’re here, don’t forget to say hi. feel free to drop me a mail: bythyag at gmail dot com
 
-i'm an ai engineer with a formal degree in production and industrial engineering from iit delhi. i enjoy building generative ai projects, get into conceptual depth, and get anxious about my understanding not being deep enough. i also write blogs at bear. occasionally i play old songs at 1am which sounds like "ruk ja chand, teher ja re chanda". 
+i’m an ai engineer with a background in production and industrial engineering from iit delhi. i like building generative ai projects, digging into core concepts, and often stress over whether i truly understand things deeply enough. i also write blogs on bear. sometimes, you’ll catch me playing old songs at 1am—stuff like “ruk ja chand, theher ja re chanda.”
 
-rest assured, i'm a human, not an agi. my best flex is i do lip reading, and decide best foods at cafe. 
+don’t worry, i’m definitely human. not an agi. best party trick? lip reading and picking the top food at any cafe.
