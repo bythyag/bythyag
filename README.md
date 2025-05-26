@@ -1,7 +1,3 @@
-well. if you're here, feel free to drop me a mail (bythyag at gmail dot com) if you’d like to chat about interesting ongoing ai projects, research, or just want to talk about your favourite book.
+well. if you're here, don't forget to say hi! feel free to drop me a mail: bythyag at gmail dot com
 
-i'm an ai engineer with a formal degree in production and industrial engineering. i enjoy building generative ai projects, working on scalability challenges, writing technical blogs, and playing old songs at 1am. rest assured, i'm a human, not an agi.
-
-what i’m up to these days:
-1. revising and rebuilding my computer science and machine learning fundamentals
-2. catching up on readings from my bookshelf
+i'm an ai engineer with a formal degree in production and industrial engineering from iit delhi. i enjoy building generative ai projects, get into conceptual depth, and get anxious about my understanding not being deep enough. i also write blogs at bear. ocassianlly i play old songs at 1am which sounds like "ruk ja chand, teher ja re chanda". rest assured, i'm a human, not an agi.
