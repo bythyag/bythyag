@@ -1,4 +1,4 @@
-### for the love of the game
+<h3 align="center">for the love of the game</h3>
 
 <table>
 <tr>
